@@ -1,6 +1,6 @@
 # swipedelete
 
-> ����"仿qq消息左滑删除""仿
+>"仿qq消息左滑删除"
 
 ## Build Setup
 
